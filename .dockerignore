@@ -1,0 +1,4 @@
+cloudbuld.yml
+deployment.yml
+hpa.yml
+service.yml
